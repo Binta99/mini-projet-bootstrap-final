@@ -1,3 +1,6 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 .header-wrapper {
   background-image: url(Path.png);
   background-size: 70% 100%;
